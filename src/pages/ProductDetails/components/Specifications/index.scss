@@ -1,0 +1,22 @@
+.specifications {
+    width: 100%;
+    margin-bottom: 10px;
+
+    h3 {
+        color: black;
+    }
+
+    &__label {
+        color: gray;
+        font-family: "Open Sans Condensed", sans-serif;
+        font-weight: 700;
+        font-size: 15px;
+    }
+
+    &__data {
+        color: gray;
+        font-family: "Open Sans Condensed", sans-serif;
+        font-weight: 400;
+        font-size: 15px;
+    }
+}
